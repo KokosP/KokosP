@@ -9,16 +9,25 @@ ________________________________________________________________________________
 <h1 align="center"> 
 <img src="https://github.com/KokosP/KokosP/blob/main/download2.gif" /></h1>
 
-![Image alt](https://github.com/KokosP/KokosP/blob/main/forta.png?raw=true)
+<img src="https://github.com/KokosP/KokosP/blob/main/forta.png"  width='24.5%'>
 
 <h1 align="center"> 
 <img src="https://github.com/KokosP/KokosP/blob/main/download3.gif" /></h1>
-![image](https://user-images.githubusercontent.com/108982468/199613575-43c44735-7bda-4108-9d9e-a9da2b24aa2b.png)
 
+<img src="https://github.com/KokosP/KokosP/blob/main/masa.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/minima.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/starknet.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/mande.png"  width='24.5%'>
+<img src="https://github.com/KokosP/KokosP/blob/main/nibiru.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/opk4.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/sun.png"  width='24.5%'>
 
+<!--![Image](https://github.com/KokosP/KokosP/blob/main/masa.png?raw=true )
 
+![Image](https://github.com/KokosP/KokosP/blob/main/minima.png?raw=true)
 
+![Image](https://github.com/KokosP/KokosP/blob/main/starknet.png?raw=true)
 
+![Image](https://github.com/KokosP/KokosP/blob/main/mande.png?raw=true)
+
+![Image](https://github.com/KokosP/KokosP/blob/main/nibiru.png?raw=true)
+
+![Image](https://github.com/KokosP/KokosP/blob/main/opk4.png?raw=true)-->
 
 
 
