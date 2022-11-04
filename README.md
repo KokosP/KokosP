@@ -14,8 +14,8 @@ ________________________________________________________________________________
 <h1 align="center"> 
 <img src="https://github.com/KokosP/KokosP/blob/main/download3.gif" /></h1>
 
-<img src="https://github.com/KokosP/KokosP/blob/main/masa.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/minima.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/starknet.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/mande.png"  width='24.5%'>
-<img src="https://github.com/KokosP/KokosP/blob/main/nibiru.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/opk4.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/sun.png"  width='24.5%'>
+<img src="https://github.com/KokosP/KokosP/blob/main/masa.png"  width='24.5%'> [<img src="https://github.com/KokosP/KokosP/blob/main/minima.png"  width='24.5%'>](https://incentive.minima.global/account/register?inviteCode=GIGTSRVR) <img src="https://github.com/KokosP/KokosP/blob/main/starknet.png"  width='24.5%'> [<img src="https://raw.githubusercontent.com/KokosP/KokosP/65271d038480129283a60d70c706fbef7d7ce6e2/mande.png"  width='24.5%'>](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1zf05u0wn8wkwszk9cq3xljj7zh7xrn83qgpsf0)
+[<img src="https://raw.githubusercontent.com/KokosP/KokosP/65271d038480129283a60d70c706fbef7d7ce6e2/nibiru.png"  width='24.5%'>](https://nibiru.explorers.guru/validator/nibivaloper1nz32jq073q6yhxfurx2naeddx2ae9zz3jckf4c) <img src="https://github.com/KokosP/KokosP/blob/main/opk4.png"  width='24.5%'> <img src="https://github.com/KokosP/KokosP/blob/main/sun.png"  width='24.5%'>
 
 <!--![Image](https://github.com/KokosP/KokosP/blob/main/masa.png?raw=true )
 
