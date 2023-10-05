@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Skills: Python  / С# / php /  HTML  /  CSS
+Skills:  С# / php /  HTML  /  CSS / Python  / Mysql
 
 - 🔭 I’m currently working on automation of parsers through telegram bots, with the recording of information in the database 
 
