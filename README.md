@@ -23,7 +23,7 @@ automation — for businesses worldwide.
 
 ## Stack
 
-Python · PHP · C# · JavaScript · MySQL · WordPress · Docker
+Python · PHP · C# · Kotlin · JavaScript · MySQL
 
 ## Validator infrastructure
 
